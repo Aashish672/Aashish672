@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm **Aashish**, a passionate Computer Science student exploring the fascinating worlds of Frontend Development and Data Science.
+
+## 💻 Currently diving deep into:
+- **Frontend Development**: Crafting interactive and user-friendly web applications using HTML, CSS, and JavaScript.
+- **Data Science**: Analyzing data, building models, and deriving insights to solve real-world problems.
+
+## 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
+
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashish672&show_icons=true&theme=radical)
+
 <!--
 **Aashish672/Aashish672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
