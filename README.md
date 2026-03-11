@@ -37,51 +37,61 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 ### ⚡ High-Concurrency Distributed Transaction System (FlashTix)
 
-Distributed **microservices architecture designed for high-traffic flash sale events**.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashish672&repo=Flash-Tix&theme=tokyonight">
+</p>
 
-* Designed **9-service microservices architecture** using FastAPI and React
-* Implemented **inventory reservation engine with Redis distributed locking**
-* Used **RabbitMQ for reliable asynchronous order and payment processing**
-* Ensured **transactional integrity under high concurrency**
-* Containerized all services with **Docker** and deployed on **AWS EC2**
+Distributed microservices system designed for **high-concurrency flash sale traffic**.
 
-**Tech Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, Redis, RabbitMQ, Docker, AWS EC2
+**Highlights**
+
+* 9-service microservices architecture
+* Redis distributed locking for inventory reservation
+* RabbitMQ asynchronous event processing
+* Docker containerized deployment on AWS
+
+Tech: FastAPI • React • TypeScript • Redis • RabbitMQ • PostgreSQL • Docker • AWS
 
 ---
 
-
 ### 🔧 AI-Powered Incident Management Dashboard
 
-Production-grade backend system for **real-time incident logging, tracking, and resolution** with built-in AI anomaly detection.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashish672&repo=incident_ai_dashboard&theme=tokyonight">
+</p>
 
-* Built scalable backend APIs for incident management and resolution workflows
-* Implemented **AI anomaly detection using Scikit-learn**
-* Designed **role-based access control and multi-admin hierarchy**
-* Added **real-time WebSocket notifications** and **CSV/PDF data export**
-* Containerized using **Docker** and deployed on **AWS EC2**
-* Used **PostgreSQL on AWS RDS inside a private VPC**
+Production-grade backend system for **real-time incident monitoring and resolution**.
 
-**Tech Stack:** Python, Django, PostgreSQL, Scikit-learn, REST APIs, Docker, AWS EC2, AWS RDS, Git
+**Highlights**
+
+* AI anomaly detection using Scikit-learn
+* Role-based access control
+* WebSocket notifications
+* AWS EC2 + RDS deployment
+
+Tech: Python • Django • PostgreSQL • Docker • AWS
 
 ---
 
 ### 📋 Real-Time Collaborative Kanban Board
 
-Scalable **multi-tenant SaaS backend system** enabling teams to manage tasks collaboratively.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashish672&repo=Real-Time-Collaborative-Kanban-Board&theme=tokyonight">
+</p>
 
-* Developed **task management APIs with atomic drag-and-drop operations**
-* Implemented **real-time synchronization using WebSocket and Redis**
-* Built **multi-tenant architecture** to support multiple teams
-* Containerized services using **Docker**
-* Deployed backend on **AWS EC2** and hosted frontend assets on **AWS S3**
+Multi-tenant SaaS backend system enabling teams to manage tasks collaboratively.
 
-**Tech Stack:** Django, Django REST Framework, PostgreSQL, WebSocket, Redis, Docker, AWS, Git
+**Highlights**
 
+* Real-time synchronization using WebSocket
+* Redis for messaging and state management
+* Dockerized deployment on AWS
+
+Tech: Django • DRF • Redis • PostgreSQL • Docker • AWS
 
 ---
 
@@ -105,12 +115,20 @@ Scalable **multi-tenant SaaS backend system** enabling teams to manage tasks col
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Activity Graph
 
-* Backend Development
-* System Design Basics
-* TypeScript
-* Cloud & Scalable Architectures
+[![Aashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish672&theme=tokyo-night)](https://github.com/Aashish672)
+
+---
+
+
+## 🏗️ Engineering Focus
+
+* Distributed Systems
+* Scalable Backend Architecture
+* Microservices Design
+* Real-time Systems (WebSockets, Event Processing)
+* Cloud Deployment (AWS, Docker)
 
 ---
 
