@@ -20,12 +20,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/aashish130803" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="aashishsinghjsr81@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/aashish130803" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:aashishsinghjsr81@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
