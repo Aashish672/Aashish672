@@ -40,6 +40,21 @@
 
 ## 🚀 Featured Projects
 
+### ⚡ High-Concurrency Distributed Transaction System (FlashTix)
+
+Distributed **microservices architecture designed for high-traffic flash sale events**.
+
+* Designed **9-service microservices architecture** using FastAPI and React
+* Implemented **inventory reservation engine with Redis distributed locking**
+* Used **RabbitMQ for reliable asynchronous order and payment processing**
+* Ensured **transactional integrity under high concurrency**
+* Containerized all services with **Docker** and deployed on **AWS EC2**
+
+**Tech Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, Redis, RabbitMQ, Docker, AWS EC2
+
+---
+
+
 ### 🔧 AI-Powered Incident Management Dashboard
 
 Production-grade backend system for **real-time incident logging, tracking, and resolution** with built-in AI anomaly detection.
@@ -66,20 +81,6 @@ Scalable **multi-tenant SaaS backend system** enabling teams to manage tasks col
 * Deployed backend on **AWS EC2** and hosted frontend assets on **AWS S3**
 
 **Tech Stack:** Django, Django REST Framework, PostgreSQL, WebSocket, Redis, Docker, AWS, Git
-
----
-
-### ⚡ High-Concurrency Distributed Transaction System (FlashTix)
-
-Distributed **microservices architecture designed for high-traffic flash sale events**.
-
-* Designed **9-service microservices architecture** using FastAPI and React
-* Implemented **inventory reservation engine with Redis distributed locking**
-* Used **RabbitMQ for reliable asynchronous order and payment processing**
-* Ensured **transactional integrity under high concurrency**
-* Containerized all services with **Docker** and deployed on **AWS EC2**
-
-**Tech Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, Redis, RabbitMQ, Docker, AWS EC2
 
 
 ---
